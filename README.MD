@@ -1,3 +1,3 @@
-##First Go program##
+# Golang tictactoe
 
 ``go run main.go``
